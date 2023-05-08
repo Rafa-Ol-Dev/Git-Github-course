@@ -5,7 +5,8 @@ da Alura, esse repositório foi criado. Seu propósito é unicamente educativo.
 
 Estará aqui como um pequeno marco. Afinal, este foi também o meu primeiro repositório!
 
-====================================================================================
+==================================================================================
+# First Git
 
 Through the Alura course 'GIT AND GITHUB: CONTROL AND SHARE YOUR CODE', this repository was created. Its purpose is solely educational.
 
